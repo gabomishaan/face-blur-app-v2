@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/face-blur-app-v2/static/css/main.e09c6e5b.chunk.css",
+    "main.js": "/face-blur-app-v2/static/js/main.eb9b6422.chunk.js",
+    "main.js.map": "/face-blur-app-v2/static/js/main.eb9b6422.chunk.js.map",
+    "runtime-main.js": "/face-blur-app-v2/static/js/runtime-main.e999c853.js",
+    "runtime-main.js.map": "/face-blur-app-v2/static/js/runtime-main.e999c853.js.map",
+    "static/css/2.75261d94.chunk.css": "/face-blur-app-v2/static/css/2.75261d94.chunk.css",
+    "static/js/2.c0708388.chunk.js": "/face-blur-app-v2/static/js/2.c0708388.chunk.js",
+    "static/js/2.c0708388.chunk.js.map": "/face-blur-app-v2/static/js/2.c0708388.chunk.js.map",
+    "static/js/3.8a00dd66.chunk.js": "/face-blur-app-v2/static/js/3.8a00dd66.chunk.js",
+    "static/js/3.8a00dd66.chunk.js.map": "/face-blur-app-v2/static/js/3.8a00dd66.chunk.js.map",
+    "index.html": "/face-blur-app-v2/index.html",
+    "static/css/2.75261d94.chunk.css.map": "/face-blur-app-v2/static/css/2.75261d94.chunk.css.map",
+    "static/css/main.e09c6e5b.chunk.css.map": "/face-blur-app-v2/static/css/main.e09c6e5b.chunk.css.map",
+    "static/js/2.c0708388.chunk.js.LICENSE.txt": "/face-blur-app-v2/static/js/2.c0708388.chunk.js.LICENSE.txt",
+    "static/media/logo_image.6114f768.png": "/face-blur-app-v2/static/media/logo_image.6114f768.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e999c853.js",
+    "static/css/2.75261d94.chunk.css",
+    "static/js/2.c0708388.chunk.js",
+    "static/css/main.e09c6e5b.chunk.css",
+    "static/js/main.eb9b6422.chunk.js"
+  ]
+}
