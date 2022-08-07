@@ -1,0 +1,17 @@
+.bounding-box {
+  position: absolute;
+  
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  cursor: pointer;
+  backdrop-filter: blur(10px);
+  border-radius: 40px;
+}
+
+
+
+.trial2 {
+
+  color:  #13637d;
+}
